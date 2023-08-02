@@ -2,7 +2,7 @@
 ### This is Saiful Islam Sobuj 
 #### Software Developer/Web Programmer
 
-<span>Software Developer / Passionate web programmer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
+<span border="1">Software Developer / Passionate web programmer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
 
 Strong skills in writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
 
