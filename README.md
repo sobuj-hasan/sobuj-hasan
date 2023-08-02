@@ -1,6 +1,8 @@
-### Hi there 👋, This is Saiful Islam Sobuj 
+### Hi there 👋, 
+### This is Saiful Islam Sobuj 
 #### Software Developer/Web Programmer
-![Software Developer/Web Programmer](<a href="https://ibb.co/g95zdH1"><img src="https://i.ibb.co/h9PDch5/Saiful-Islam-Sobuj.png" alt="Saiful-Islam-Sobuj" border="0"></a>)
+
+<a href="https://ibb.co/g95zdH1"><img src="https://i.ibb.co/h9PDch5/Saiful-Islam-Sobuj.png" alt="Saiful-Islam-Sobuj" border="0"></a>
 
 Software Developer / Passionate web programmer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
 
