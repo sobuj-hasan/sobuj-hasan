@@ -2,7 +2,7 @@
 ### This is Saiful Islam Sobuj 
 #### Software Developer/Web Programmer
 
-<img src='src' alt="des" style="border: 2px solid  gray; border-radius:15px">
+<hr/>
 Software Developer / Passionate web programmer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
 
 Strong skills in writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
@@ -18,7 +18,8 @@ Skills: HTML | CSS | Javascript | Bootstrap | Tailwind | PHP | Laravel | Vue.js 
 - 👯 I’m looking to collaborate on **PHP(Laravel) Related Technologies** 
 - 💬 Ask me **Technology related questions** 
 - 📫 How to reach me: **sobujhasan388@gmail.com**
-<img src='src' alt="des" style="border: 2px solid  gray; border-radius:15px">
+
+  <hr/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sobuj-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sobujhasan388)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saifuli81748283)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16363124/saiful-islam-sobuj)  
