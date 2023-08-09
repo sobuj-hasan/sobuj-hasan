@@ -18,8 +18,7 @@ Skills: HTML | CSS | Javascript | Bootstrap | Tailwind | PHP | Laravel | Vue.js 
 - 👯 I’m looking to collaborate on **PHP(Laravel) Related Technologies** 
 - 💬 Ask me **Technology related questions** 
 - 📫 How to reach me: **sobujhasan388@gmail.com**
-
-  <hr/>
+<hr/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sobuj-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sobujhasan388)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saifuli81748283)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16363124/saiful-islam-sobuj)  
