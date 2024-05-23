@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-### This is Saiful Islam Sobuj 
+### This is Saiful Islam Akash 
 #### Software Developer/Web Programmer
 
 <hr/>
@@ -13,11 +13,12 @@ Results-oriented Web Application Developer and Online Business Developer with co
 
 Skills: HTML | CSS | Javascript | Bootstrap | Tailwind | PHP | Laravel | React.js | Livewire
 
-- 🔭 I’m currently working on **Text to Speech (AI Project)** 
+- 🌱 I’m Currently working on **A Cold Email Marketing Software**
+- 🔭 I have worked on an AI Tool **Text to Speech (Speechingly)**
 - 🌱 I’m currently learning **MERN Stack Development** 
 - 👯 I’m looking to collaborate on **PHP(Laravel) Related Technologies** 
 - 💬 Ask me **Technology related questions** 
-- 📫 How to reach me: **sobujhasan388@gmail.com**
+- 📫 How to reach me: **siakash.dev@gmail.com**
 <hr/>
 
 
