@@ -7,7 +7,7 @@ Software Developer / Passionate web programmer with extensive knowledge and abil
 
 Strong skills in writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
 
-Love to work with Laravel, Vue web framework to build high scalable web application. I work at a software firm as a Software Developer. and also work remotely with clients all over the world. My extreme priority is to fulfill the demand of my clients in the best possible way. The quality need to be conventional and extremely reliable, to achieve that I believe dedication and honesty.
+Love to work with Laravel, React web framework to build high scalable web application. I work at a software firm as a Software Developer. and also work remotely with clients all over the world. My extreme priority is to fulfill the demand of my clients in the best possible way. The quality need to be conventional and extremely reliable, to achieve that I believe dedication and honesty.
 
 Results-oriented Web Application Developer and Online Business Developer with considerable training and enterprise experience in Web site design and layout and in all stages of design, coding, and testing of Web applications, and in the formation, planning, and implementation of online business ventures.
 
