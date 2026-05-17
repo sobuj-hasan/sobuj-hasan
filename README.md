@@ -1,29 +1,146 @@
-### Hi there 👋, 
-### This is Saiful Islam Akash 
-#### Software Developer/Web Programmer
+# Saiful Islam Akash
 
-<hr/>
-Software Developer / Passionate web programmer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
+**Software Developer / Web Programmer** — I build scalable, creative, and interactive web-based applications using modern web technologies.
 
-Strong skills in writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=26&duration=4000&pause=2000&color=8A38D5&width=620&lines=Laravel%20%2B%20React%20full-stack%20developer;Clean%20scalable%20web%20application%20development;Cold%20email%20SaaS%20%2B%20AI%20tool%20engineering;PHP%20%C2%B7%20Laravel%20%C2%B7%20React.js%20%C2%B7%20Livewire;Tailwind%20%C2%B7%20Bootstrap%20%C2%B7%20MySQL%20%C2%B7%20REST%20APIs)](https://git.io/typing-svg)
 
-Love to work with Laravel, React web framework to build high scalable web application. I work at a software firm as a Software Developer. and also work remotely with clients all over the world. My extreme priority is to fulfill the demand of my clients in the best possible way. The quality need to be conventional and extremely reliable, to achieve that I believe dedication and honesty.
+I am a **Software Developer and passionate Web Programmer** with strong experience in building innovative, creative, and reliable web applications. I focus on writing **clean, efficient, reusable code** that is easy to maintain and ready for future growth.
 
-Results-oriented Web Application Developer and Online Business Developer with considerable training and enterprise experience in Web site design and layout and in all stages of design, coding, and testing of Web applications, and in the formation, planning, and implementation of online business ventures.
+I love working with **Laravel**, **React.js**, and modern web frameworks to build scalable applications. I currently work at a software firm as a **Software Developer** and also collaborate remotely with clients from different parts of the world.
 
-Skills: HTML | CSS | Javascript | Bootstrap | Tailwind | PHP | Laravel | React.js | Livewire
+My highest priority is to understand client requirements clearly and deliver the best possible solution with dedication, honesty, and reliable quality.
 
-- 🌱 I’m Currently working on **A Cold Email Marketing Software**
-- 🔭 I have worked on an AI Tool **Text to Speech (Speechingly)**
-- 🌱 I’m currently learning **MERN Stack Development** 
-- 👯 I’m looking to collaborate on **PHP(Laravel) Related Technologies** 
-- 💬 Ask me **Technology related questions** 
-- 📫 How to reach me: **siakash.dev@gmail.com**
-<hr/>
+Currently working as a **Software Developer** at **Bitchip Digital**.
 
+### Why clients and teams work with me
+- I can build web applications from **planning -> development -> testing -> deployment**
+- I write clean, reusable, and maintainable code for long-term product growth
+- I have practical experience with SaaS tools, AI tools, CRM systems, and e-commerce platforms
+- I can work with both backend and frontend technologies, especially **Laravel** and **React.js**
+- I stay focused on quality, deadlines, communication, and client satisfaction
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sobuj-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sobujhasan388)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/saifuli81748283)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16363124/saiful-islam-sobuj)  
+### Core strengths
+- Full-stack web application development using **PHP**, **Laravel**, **React.js**, and **JavaScript**
+- Building scalable SaaS tools, admin panels, CRM systems, and business applications
+- Clean backend architecture with REST APIs, database design, and reusable code patterns
+- Frontend development with **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**, and React.js
+- Real-world project experience with payment gateway integration, reporting modules, and business automation
+- Ability to work in team-focused environments using agile development practices
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobuj-hasan)](https://github.com/anuraghazra/github-readme-stats)
+## Highlight Projects
+
+I have worked on practical web applications, SaaS platforms, AI tools, and business software.
+
+- **Reachingly AI** - Cold Email Marketing Software built with Laravel 12 and Inertia React.js
+- **Speechingly / AI Tools** - AI Text-to-Speech, AI Voice Generation, and Image Generation software
+- **CRM Software** - Customer Relationship Management platform using Laravel 10 and React.js
+- **Multivendor E-commerce Application** - E-commerce platform developed using Laravel 8
+- **Job Portal Website** - Job portal developed with RAW PHP, OOP, and JavaScript
+- **Academic Website** - Academic platform developed using RAW PHP, OOP, and JavaScript
+- **Social Service Maintenance Software** - Business and service management software with reporting modules
+- **E-commerce Platforms** - Revenue reports, statistics reports, demographics, user permissions, and admin features
+
+---
+
+## Current Focus
+
+- 🌱 Currently working on **Cold Email Marketing Software**
+- 🔭 Previously worked on **AI Text-to-Speech and AI Voice Generation software**
+- 🌱 Currently learning **MERN Stack Development**
+- 👯 Looking to collaborate on **PHP and Laravel-related technologies**
+- 💬 Ask me technology-related questions
+- 📫 Reach me at **siakash.dev@gmail.com**
+
+---
+
+## Work Experience
+
+### Software Developer  
+**Bitchip Digital** — Sector 3, Uttara  
+**September 2023 - Ongoing**
+
+**Responsibilities:**
+- Developed **Cold Email Marketing Software (Reachingly AI)** using Laravel 12 and Inertia React.js
+- Built AI-powered tools including Text-to-Speech, AI Voice Generation, and Image Generation software
+- Collaborated in a team-focused environment on real-life software projects
+- Worked on modern SaaS features, backend logic, frontend interfaces, and client-focused product improvements
+
+### Web Application Developer (Full-Stack)  
+**SoftTech BD Limited** — Marul Badda, Dhaka  
+**October 2022 - August 2023**
+
+**Responsibilities:**
+- Worked on CRM, ERP, accounting, booking, and space management software
+- Developed and maintained web-based software using PHP, Laravel, React.js, and JavaScript
+- Worked on major project modules including revenue reports, statistics reports, demographics, and user permissions
+- Contributed to social service maintenance software and e-commerce platforms
+- Followed agile methodology to test, maintain, and improve web-based systems
+
+### Web Application Developer  
+**Digital IT & Software Limited** — Dhanmondi 27  
+**June 2022 - September 2022**
+
+**Responsibilities:**
+- Developed and enhanced a job portal website using RAW PHP and OOP
+- Developed and enhanced an academic website using RAW PHP, OOP, and JavaScript
+- Tested programs and databases to identify issues and make necessary improvements
+- Worked with database queries, frontend logic, and backend functionality
+
+---
+
+## Technical Proficiency
+
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js
+- **Backend:** PHP, Laravel Framework, CodeIgniter, OOP, REST APIs
+- **Full-Stack:** Laravel, React.js, Livewire, Inertia React.js
+- **Database:** SQL, database design, complex database queries
+- **Server & Tools:** GitHub, Git, Git Flow, Nginx, Apache
+- **Data Formats & Auth:** JWT, JSON, XML
+- **Workflow:** Agile/Scrum methodology, multitasking, system design
+- **Integrations:** Stripe, PayPal, SSL payment gateway integration
+- **Other:** AJAX implementation, algorithm practice, testing and maintenance
+
+## Work Summary
+
+- Experienced in working with **REST APIs**
+- Strong experience with **PHP OOP** and frameworks like **Laravel** and **CodeIgniter**
+- Experienced in writing and optimizing complex database queries
+- Practical frontend experience with **JavaScript**, **AJAX**, and **React.js**
+- Experienced in multivendor e-commerce platforms with international payment gateways
+- Worked with CRM, ERP, accounting, booking, and space management software
+- Able to multitask, collaborate with teams, and deliver reliable web applications
+
+---
+
+## Objective
+
+Driven and experienced **Software Engineer** with a strong background in **PHP** and the **Laravel framework**. Dedicated to delivering high-quality, scalable web applications while following best practices and meeting tight deadlines.
+
+Seeking a challenging role with a company that supports innovation and diverse projects, where I can use my skills to contribute to team success and deliver exceptional value to clients.
+
+---
+
+## Professional Keywords
+
+`Software Developer` `Web Programmer` `Full-Stack Developer` `Laravel Developer` `PHP Developer` `React.js Developer` `Livewire Developer` `SaaS Developer` `Web Application Developer` `REST API Developer` `CRM Developer` `E-commerce Developer` `AI Tools Developer` `Clean Code` `Database Design`
+
+---
+
+## Connect With Me
+
+If you need a reliable software developer for Laravel, React.js, SaaS tools, AI tools, CRM, or business web applications, let's connect.
+
+**Address:** Nikunja 2, Khilkhet, Dhaka-1229  
+**Email:** [siakash.dev@gmail.com](mailto:siakash.dev@gmail.com)  
+**Phone:** [+88 01302509844](tel:+8801302509844)  
+**GitHub:** [sobuj-hasan](https://github.com/sobuj-hasan)
+
+<p align="left">
+  <a href="mailto:siakash.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-8A38D5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sobuj-hasan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
